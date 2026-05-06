@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hamza%20Amir&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20JavaScript%20%7C%20UI%2FUX&descAlignY=60&descColor=a0c4ff" width="100%"/>
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Hamza+Amir+%F0%9F%91%8B;A+passionate+Frontend+Developer;Building+awesome+web+experiences;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&width=600&lines=Hey+there!+I'm+Hamza+Amir+%F0%9F%91%8B;A+passionate+Developer;Building+awesome+web+experiences;Always+learning%2C+always+growing+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/github/followers/HamzaAmir1470?style=for-the-badge&color=0e75b6&logo=github&label=FOLLOWERS" alt="Followers"/>
 </a>
 &nbsp;
-<img src="https://img.shields.io/badge/Focus-Frontend%20Development-0e75b6?style=for-the-badge" alt="Focus"/>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-0e75b6?style=for-the-badge" alt="Focus"/>
 
 </div>
 
