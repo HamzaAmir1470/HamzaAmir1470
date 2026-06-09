@@ -80,6 +80,7 @@ const hamzaAmir = {
 | [🎨 Background Changer](https://github.com/HamzaAmir1470/Background-Changer) | Dynamic background color changer built with React | React · JS |
 | [🔑 Password Generator](https://github.com/HamzaAmir1470/Password-generator) | Secure random password generator using React | React |
 | [🛒 Apna Cart](https://github.com/HamzaAmir1470/apna_cart) | A shopping cart web application | JavaScript |
+| [Multivendor](https://github.com/HamzaAmir1470/E-shop-Multi_vendor) | A three dashboard project like a Shopping Plateform | MernStack |
 
 </div>
 
